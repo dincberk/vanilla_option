@@ -1,4 +1,4 @@
-# vanilla_option
+# EUROPEAN VANILLA OPTION PRICER/PRICING
 Notebook code includes a European Vanilla Pricer for the monthly spread option for the given underlyings.
 
 Notebook code has been set in different parts yet at the end vanilla pricer has been set as:
