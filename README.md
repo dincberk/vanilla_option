@@ -25,9 +25,6 @@ def european_vanilla_option(S, K, T, r, sigma, option = 'call'):
 
 Which is basicly the definion of European type of Vanilla Option Pricing.
 
-
-For more information you can reach me from dincberk@gmail.com
-
 Output should give front 12 months with PUT & CALL option prices of the each month.
 
 
